@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Usuario/Desktop/JOGOS DIGITAIS/material base/UC 2/Material complementar/prototipo_AlienCity5.5/Assets/Cenas/Cena.unity
+  isLoaded: 1
+  isActive: 1
